@@ -39,7 +39,7 @@ container.style.color="rgb(43, 32, 141)"
 container.style.fontFamily="monospace"
 container.style.textShadow=" 10px 10px 10px grey" 
 let icon=document.getElementById("icon")
-icon.style.color="rgba(245, 6, 153, 0.91)"
+icon.style.color="rgba(210, 21, 138, 0.91)"
 
 
 let container1=document.getElementById("container1")
