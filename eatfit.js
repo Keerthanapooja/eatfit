@@ -35,7 +35,7 @@ container.style.justifyContent="center"
 container.style.alignItems="center"
 container.style.textTransform="capitalize"
 container.style.fontWeight="bold"
-container.style.color="rgb(34, 25, 119)"
+container.style.color="rgb(35, 25, 125)"
 container.style.fontFamily="monospace"
 container.style.textShadow=" 10px 10px 10px grey" 
 let icon=document.getElementById("icon")
@@ -58,7 +58,7 @@ container1.style.marginLeft="50px"
 container1.style.borderBottom="2px solid grey"
 container1.style.width="1200px"
 let feature=document.getElementById("feature")
-feature.style.color="rgb(226, 26, 136)"
+feature.style.color="rgb(244, 8, 137)"
 
 
 let container2=document.getElementById("container2")
@@ -207,7 +207,7 @@ fus.style.paddingBottom="20px"
 
 
 let icon1=document.getElementById("icon1")
-icon1.style.color="rgb(240, 30, 159)"
+icon1.style.color="rgb(240, 5, 150)"
 icon1.style.fontSize="40px"
 
 let icon2=document.getElementById("icon2")
